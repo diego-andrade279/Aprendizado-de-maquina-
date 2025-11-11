@@ -1,0 +1,2 @@
+link Grafana Dados de acidente aéreos no brasil :
+https://diegoandrade279.grafana.net/d/dip5xr9/new-dashboard?orgId=1&from=2027-01-10T19:41:02.943Z&to=2029-10-30T19:41:02.943Z&timezone=browser&refresh=5s
